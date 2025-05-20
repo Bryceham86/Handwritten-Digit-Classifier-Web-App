@@ -1,6 +1,6 @@
 # Handwritten Digit Classifier Web App
 
-An interactive machine learning app for classifying handwritten digits using multiple classifiers and evaluating their performance. Originally this was a class assignment, this project was expanded into a web app using with **Scikit-learn**, **Streamlit**, and **Matplotlib** using the classic `digits` dataset for model training and comparison..
+This is an interactive machine learning app for classifying handwritten digits using multiple classifiers and evaluating their performance. Originally, this was a class assignment; this project was expanded into a web app using **Scikit-learn**, **Streamlit**, and **Matplotlib**, using the classic `digits` dataset for model training and comparison.
 
 ## Project Overview
 
@@ -22,7 +22,7 @@ The application provides:
 
 ### 1. Clone the Repository
 
-```bash
+```bash``
 git clone https://github.com/your-username/digit-classifier-app.git
 cd digit-classifier-app
 
@@ -30,6 +30,6 @@ cd digit-classifier-app
 pip install -r requirements.txt
 streamlit run main.py
 
-### 3. Run the applcation
+### 3. Run the application
 streamlit run main.py
-```
+
